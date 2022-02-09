@@ -2,12 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import './index.css'; Tämä piti poistaa
 //import App from './App'; Tämä piti poistaa
-import App from './App';
+import AjoApp from './AjoApp';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AjoApp />
   </React.StrictMode>,
   document.getElementById('root')
 );
