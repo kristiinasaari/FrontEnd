@@ -9,3 +9,4 @@ Kevään 2022 toteutus Haaga-Helian ammattikorkeakoulussa
 - React Router
 - Back-end Nodella ja Expressillä
 - Lopullinen harjoitustyö
+- Lopullinen harjoitustyö
